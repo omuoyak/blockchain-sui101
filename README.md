@@ -6,3 +6,5 @@ Bu repo, etkinlikte kullanılan kaynakları ve ilgili diğer içerikleri barınd
 
 - [Sunumu Görüntüle](Slayt.pdf)  
   Etkinlik sunumunu PDF formatında görüntülemek için bu bağlantıyı kullanabilirsiniz.
+- [Katılımcı Belgelerini Görüntüle](katilimci-belgesi/)  
+  Etkinlik katılımcı belgelerine bu klasörden ulaşabilirsiniz.
